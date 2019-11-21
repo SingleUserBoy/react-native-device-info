@@ -127,7 +127,7 @@ const devicesWithNotch: Array<NotchDevice> = [
   },
   {
     brand: 'Motorola',
-    model: 'One',
+    model: 'Motorola One',
   },
   {
     brand: 'Motorola',
